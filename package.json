@@ -1,0 +1,22 @@
+{
+  "name": "pwd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christian-Vavuris/portfolio-generator.git"
+  },
+  "author": "Christian Vavuris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christian-Vavuris/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Christian-Vavuris/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  }
+}
